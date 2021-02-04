@@ -1,9 +1,8 @@
-# Chicken Dinner Svelte Blog Starter
+# Mr. Whisker's Markdown Blog
 
-<center>![Compuglobalhypermegacorp](/static/imgs/mrwhiskers-500.png)</center>
+![Compuglobalhypermegacorp](./static/imgs/mrwhiskers-500.png)
 
-Starter blog theme built on top of Svelte's Sapper which uses Markdown for blog posts, paginates, and able to generate static content.
-
+Example starter blog theme built on top of Svelte's Sapper which uses Markdown for blog posts, paginates, and able to generate static content.
 
 ## Getting started
 ```bash
